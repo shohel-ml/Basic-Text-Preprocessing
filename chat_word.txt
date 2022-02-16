@@ -100,6 +100,7 @@ chat_word = {
 'DM':'Direct Message',
 'F2F':'face-to-face',
 'FB':'Facebook',
+'omg':'oh my god',
 'Sup or Zup':"What's up?",
 
 }
